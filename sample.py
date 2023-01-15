@@ -1,6 +1,6 @@
 import numpy
 
-a=25
-b=48
+a=125
+b=148
 sum=a+b
 print  ("sum of the a and b =") sum
