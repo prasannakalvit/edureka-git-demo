@@ -1,7 +1,7 @@
 import numpy
 
-a=125
-b=148
-c-233
+a=225
+b=248
+c-333
 sum=a+b+c
 print  ("sum of the a and b =") sum
