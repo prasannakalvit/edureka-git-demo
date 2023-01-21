@@ -4,5 +4,9 @@ import numpy
 a=225
 b=248
 c-433
-sum=a+b+c
-print  ("sum of the a and b =") sum
+d=666
+sum=a+b+c+d
+print  ("sum of the a and b,c,d =") sum
+add one line
+two line add
+third line added
